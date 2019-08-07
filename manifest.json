@@ -1,6 +1,6 @@
 {
-  "name": "vue-ionic-pwa",
-  "short_name": "vue-ionic-pwa",
+  "name": "猿计划的百科全书",
+  "short_name": "猿计划",
   "icons": [
     {
       "src": "./img/logo.png",
