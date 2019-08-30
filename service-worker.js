@@ -27,27 +27,27 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f264c6a28fbfae30bf6d950503b3b023"
+    "revision": "204e40b280fe39863571bd11b2db8638"
   },
   {
     "url": "Another/Fillory.html",
-    "revision": "2f7e1336ed247d5070038bb8b8ae1629"
+    "revision": "ca735b36926f3feec7f9cae5c340173a"
   },
   {
     "url": "Another/MySelf.html",
-    "revision": "7be727b4862521af0cd9fcb4490625d2"
+    "revision": "cb8847ceff2e944ce845048bf078e2dd"
   },
   {
     "url": "Another/Project.html",
-    "revision": "3026c09ce1573d034627fb5863fb837e"
+    "revision": "83bf41d6c1d1129de4e70526ed79561d"
   },
   {
     "url": "Another/Review.html",
-    "revision": "31b579159aca0e4a8a3fc479967394df"
+    "revision": "56ece614beb82ee0130695a09c78a792"
   },
   {
-    "url": "assets/css/0.styles.f392b843.css",
-    "revision": "5dd06d1cb036c5a42a7f2e902e2d9e3f"
+    "url": "assets/css/0.styles.942349c9.css",
+    "revision": "3fabdcaf4ba537dd42a602b81ca4521b"
   },
   {
     "url": "assets/img/001.b9fa5ca8.jpg",
@@ -130,16 +130,16 @@ self.__precacheManifest = [
     "revision": "675a719aa3b9e64d3b9746fe1c488657"
   },
   {
-    "url": "assets/js/10.2f0417c2.js",
-    "revision": "45ed74638c7eb38318b2c95c2f774fbe"
+    "url": "assets/js/10.c7ed14c3.js",
+    "revision": "8a8af26b6dc7e62b41385f6e2d619967"
   },
   {
     "url": "assets/js/11.ae67990a.js",
     "revision": "645195b2c1264645a21d9661e0855bff"
   },
   {
-    "url": "assets/js/12.46a05174.js",
-    "revision": "bc4710f19934a7ea13f8a667ae200d79"
+    "url": "assets/js/12.9965933d.js",
+    "revision": "758436d07d66021fb1bee7feaa8c4650"
   },
   {
     "url": "assets/js/13.48b37dfe.js",
@@ -150,12 +150,12 @@ self.__precacheManifest = [
     "revision": "e64f838451afd2aceb4dffcea642b63f"
   },
   {
-    "url": "assets/js/15.90fa1004.js",
-    "revision": "9bb69cdc9bf6fab8804eeff1fc3b67f4"
+    "url": "assets/js/15.ccddf7f1.js",
+    "revision": "a16a43fc1745e0bac97e77149f39ece4"
   },
   {
-    "url": "assets/js/16.d62e970b.js",
-    "revision": "71c2d4314f1983e0452b2b2744aadd30"
+    "url": "assets/js/16.13806225.js",
+    "revision": "69ae0cdd8c7118b82342849f1479d636"
   },
   {
     "url": "assets/js/17.843ccf7a.js",
@@ -182,64 +182,64 @@ self.__precacheManifest = [
     "revision": "596b7aef8bb512d1487a0c7c1f9bc9ae"
   },
   {
-    "url": "assets/js/22.2479b232.js",
-    "revision": "0b402d5b0af329a369ceab9f11b2792d"
+    "url": "assets/js/22.38303848.js",
+    "revision": "eb5d0ae74a53c85ad44e1f4d1e7aecb7"
   },
   {
-    "url": "assets/js/23.1c0e5f13.js",
-    "revision": "e14d6bc7777cff03c1320583d8ae8031"
+    "url": "assets/js/23.3ad4702a.js",
+    "revision": "2706a5fea36553e600d4ed7af7370dee"
   },
   {
-    "url": "assets/js/24.20455b99.js",
-    "revision": "a49e37f97cf59f76101ba593e503d115"
+    "url": "assets/js/24.45734555.js",
+    "revision": "e7cf075492f2d8440303c36a0a5ed42d"
   },
   {
-    "url": "assets/js/25.c61dd686.js",
-    "revision": "7de9c9aa3153307baefd2fb709cb40dc"
+    "url": "assets/js/25.8eff3e91.js",
+    "revision": "f0d7aae92ed9093fa5734f5d69534525"
   },
   {
-    "url": "assets/js/26.88992dd6.js",
-    "revision": "6dee886ad183621a87dfb2609b37b773"
+    "url": "assets/js/26.d75a15a4.js",
+    "revision": "473183b5069f783ff45941df20f55a65"
   },
   {
-    "url": "assets/js/27.1d69f748.js",
-    "revision": "3bc34ed9318aca2b9c96c178a632bfbd"
+    "url": "assets/js/27.20da52a8.js",
+    "revision": "0c367d796591d69b4a468306c51068f7"
   },
   {
-    "url": "assets/js/28.9bfa162a.js",
-    "revision": "21883b9e33dd48429d1b5e1986bcf917"
+    "url": "assets/js/28.d385b80e.js",
+    "revision": "09740faf92f22019adf7712f241950d5"
   },
   {
-    "url": "assets/js/29.0953c161.js",
-    "revision": "3ee4afbb08f7c0c6d2e4f19d05865c26"
+    "url": "assets/js/29.f1dba669.js",
+    "revision": "eb6482a868f67627c2d0a5d3c5d86a78"
   },
   {
-    "url": "assets/js/30.7404b60e.js",
-    "revision": "487df2a2baa6484148b73af2602c7ed9"
+    "url": "assets/js/30.70c91501.js",
+    "revision": "eac9c4236242a4f7527b602723f24f17"
   },
   {
-    "url": "assets/js/31.76eb6fb6.js",
-    "revision": "28a731010b675d4e9807a9b107619b27"
+    "url": "assets/js/31.1b846dea.js",
+    "revision": "fdd6cd366b1a56b5877c05d56b84075d"
   },
   {
-    "url": "assets/js/32.77c74d49.js",
-    "revision": "5bfc4be303eb5bb88901d7b322a02572"
+    "url": "assets/js/32.27d69eae.js",
+    "revision": "e8ce5effff43dd68f167ce2efbf98f38"
   },
   {
-    "url": "assets/js/33.60bf22c3.js",
-    "revision": "454d8ec4ad6a51ba3decc2610a41a7cb"
+    "url": "assets/js/33.05ead5fb.js",
+    "revision": "4277c7555fc66e5ec752ca34f9909777"
   },
   {
-    "url": "assets/js/34.39b6622c.js",
-    "revision": "c83215bd005450525b39616c9ef7391b"
+    "url": "assets/js/34.277631da.js",
+    "revision": "ce38956c5b491b8c57055b5c581681eb"
   },
   {
-    "url": "assets/js/35.c6f01bc0.js",
-    "revision": "4050bdf2539b52e4f6f8646d0fae697e"
+    "url": "assets/js/35.2dacdd04.js",
+    "revision": "347574de5e2788b98e78cf17982968ce"
   },
   {
-    "url": "assets/js/36.27520d2a.js",
-    "revision": "5c88a6eb1915cb757171764563716814"
+    "url": "assets/js/36.a9f3aba0.js",
+    "revision": "811e2723515684c82daa7da758fb16af"
   },
   {
     "url": "assets/js/37.a29fad89.js",
@@ -254,8 +254,8 @@ self.__precacheManifest = [
     "revision": "639b20c271dd5970eacc845143a9a183"
   },
   {
-    "url": "assets/js/5.5948ee63.js",
-    "revision": "8dfcb2682be025f12376372d66fca35f"
+    "url": "assets/js/5.7b6eb3c1.js",
+    "revision": "26ecf857836e2f4c199ff180833e34d6"
   },
   {
     "url": "assets/js/6.fabffe17.js",
@@ -266,44 +266,44 @@ self.__precacheManifest = [
     "revision": "a939690f4fc3283fd248cf5a1dc8285c"
   },
   {
-    "url": "assets/js/8.c9afd705.js",
-    "revision": "353a25874476b71beb15986d032b3c0e"
+    "url": "assets/js/8.7e625bda.js",
+    "revision": "bb71a032c416d1bb934f28dca3d82650"
   },
   {
     "url": "assets/js/9.d9347dda.js",
     "revision": "73abd1459eb9279dc61a3ccf1063c86a"
   },
   {
-    "url": "assets/js/app.862fce69.js",
-    "revision": "7e3057c921c1e73ba7bffc15acc18c61"
+    "url": "assets/js/app.073c1167.js",
+    "revision": "02c67714ef3c293d6db5559117286a9a"
   },
   {
     "url": "FAQ/Console/A000.html",
-    "revision": "236c4eb06110b430758ecbb7ea47f694"
+    "revision": "7b887ba8a8c20cc5865d295123b26e3e"
   },
   {
     "url": "FAQ/Console/A001.html",
-    "revision": "0d03d4e7cb77dfe81287a685a2c3ec55"
+    "revision": "1bcb4b9753ed955e9ed38777054117b9"
   },
   {
     "url": "FAQ/Console/A002.html",
-    "revision": "12c3e7eb92c9e7d85b6722e6433fa75a"
+    "revision": "1cb7637e45b9be282e7b43ebfec126c2"
   },
   {
     "url": "FAQ/DigestionHeap/Digested.html",
-    "revision": "5bee8a26e3f2436335b195567a374bf7"
+    "revision": "802c60da1f09a8a4a74bcfb2e5ebae3d"
   },
   {
     "url": "FAQ/DigestionHeap/Digesting.html",
-    "revision": "2e0df0bcf60578dc63dba6e5c06a81b4"
+    "revision": "e7794c2eb651eeb7efafc94fcb52d4ad"
   },
   {
     "url": "FAQ/DigestionHeap/DigestWill.html",
-    "revision": "8665339294a701047f415bf910fc4840"
+    "revision": "9c9bf437acd6045c4f1b28fa349c7aec"
   },
   {
     "url": "FAQ/Wiki.html",
-    "revision": "c94e1d1776ac1561071bd0396a96ed07"
+    "revision": "b085242795fecb41495a5b43fbbbdb99"
   },
   {
     "url": "img/images.png",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "4217e515881985d59652abfc1f902f3a"
+    "revision": "fd64b50f49262ece759b7f1d8462b00b"
   },
   {
     "url": "js/canvas_ribbon.js",
@@ -443,7 +443,7 @@ self.__precacheManifest = [
   },
   {
     "url": "live2dModels/live2d/js/wife.js",
-    "revision": "d3c8721a42ec3cbd7baf8e0990658cdf"
+    "revision": "c7288ba107510e3eb3ff30326e400616"
   },
   {
     "url": "live2dModels/live2d/model/22/22.1024/closet.2016.xmas/texture_01.png",
@@ -866,8 +866,300 @@ self.__precacheManifest = [
     "revision": "abee4cdeb8018032163ffdc0a16020b0"
   },
   {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_classic/textures.1024/00.png",
+    "revision": "9d0c689285e6021efdc75656dd0cdd5f"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_classic/textures.1024/01.png",
+    "revision": "6c0151376e387aa3c0c1545458227e95"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_classic/textures.1024/02.png",
+    "revision": "7f065538a31167a833cf9e91ae2754bf"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_classic/textures.1024/03.png",
+    "revision": "4bffae039fdbdb6e126e1bceabf6852d"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_normal/textures.1024/00.png",
+    "revision": "9d0c689285e6021efdc75656dd0cdd5f"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_normal/textures.1024/01.png",
+    "revision": "6c0151376e387aa3c0c1545458227e95"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_normal/textures.1024/02.png",
+    "revision": "06fac404eb7ce7576c27408a66d2d195"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_normal/textures.1024/03.png",
+    "revision": "a7db1d8ecc7fa18c461c4169ba4ae706"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_swimwear/textures.1024/00.png",
+    "revision": "9d0c689285e6021efdc75656dd0cdd5f"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_swimwear/textures.1024/01.png",
+    "revision": "256e987dbccb87793437690cab5ebbdd"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/blanc_swimwear/textures.1024/02.png",
+    "revision": "01506addfc8c859d82c0d02fe322062e"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/histoire/textures.1024/00.png",
+    "revision": "45552f931019f59422e912d74277671d"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/histoire/textures.1024/01.png",
+    "revision": "8a7ea0601f56314cabe3554b363ea193"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/histoire/textures.1024/02.png",
+    "revision": "4d9ed0f240ae7242f70e8ca245f40610"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/histoire/textures.1024/03.png",
+    "revision": "c56fe341422cd8f8e1b627d18881f156"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/histoirenohover/textures.1024/00.png",
+    "revision": "45552f931019f59422e912d74277671d"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/histoirenohover/textures.1024/01.png",
+    "revision": "8a7ea0601f56314cabe3554b363ea193"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/histoirenohover/textures.1024/02.png",
+    "revision": "4d9ed0f240ae7242f70e8ca245f40610"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/histoirenohover/textures.1024/03.png",
+    "revision": "c56fe341422cd8f8e1b627d18881f156"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgear_extra/textures.1024/00.png",
+    "revision": "6816376f851dcd084a923e1d87bfe6a3"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgear_extra/textures.1024/01.png",
+    "revision": "e7a8948cb249938c96b5661e51d61cf6"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgear_extra/textures.1024/02.png",
+    "revision": "ce91d5e1626c30022d50e6c75c6789b1"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgear_extra/textures.1024/03.png",
+    "revision": "1918cb5ad275f2797938b255a859ffd7"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgear/textures.1024/00.png",
+    "revision": "9b7f9c129596ba92319a14196bebff81"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgear/textures.1024/01.png",
+    "revision": "8b1d2336dd37cd8a8c3b760e73108c4a"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgear/textures.1024/02.png",
+    "revision": "a7fc5f441b3873a2a9617c3194f81935"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgear/textures.1024/03.png",
+    "revision": "ab748b6b04b8f4653a65057e2b8cb88f"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgearswim/textures.1024/00.png",
+    "revision": "9b7f9c129596ba92319a14196bebff81"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgearswim/textures.1024/01.png",
+    "revision": "8b1d2336dd37cd8a8c3b760e73108c4a"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgearswim/textures.1024/02.png",
+    "revision": "785652eb751b6c0fa72b160fee9b3791"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepgearswim/textures.1024/03.png",
+    "revision": "3e8267a0afd9101961d843bab1d5b705"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepmaid/textures.1024/00.png",
+    "revision": "318efe6cbd2ae78487afe1ca3858b150"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepmaid/textures.1024/01.png",
+    "revision": "c69c1d64699e43e2553f0cb094c4facc"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepmaid/textures.1024/02.png",
+    "revision": "8c35940c4c8a007833d30fc512555416"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepnep/textures.1024/00.png",
+    "revision": "318efe6cbd2ae78487afe1ca3858b150"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepnep/textures.1024/01.png",
+    "revision": "c69c1d64699e43e2553f0cb094c4facc"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepnep/textures.1024/02.png",
+    "revision": "16d8e01a69d41333d065bff2f4ac5bae"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepswim/textures.1024/00.png",
+    "revision": "318efe6cbd2ae78487afe1ca3858b150"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepswim/textures.1024/01.png",
+    "revision": "c69c1d64699e43e2553f0cb094c4facc"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/nepswim/textures.1024/02.png",
+    "revision": "eb9b00a62e9dc676166e86e0c513b3c9"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/neptune_classic/textures.1024/00.png",
+    "revision": "318efe6cbd2ae78487afe1ca3858b150"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/neptune_classic/textures.1024/01.png",
+    "revision": "04ab2348970a7d57364846c7adfbedbc"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/neptune_classic/textures.1024/02.png",
+    "revision": "03378670972cf1fe424efb70e95ac47b"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/neptune_santa/textures.1024/00.png",
+    "revision": "318efe6cbd2ae78487afe1ca3858b150"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/neptune_santa/textures.1024/01.png",
+    "revision": "04ab2348970a7d57364846c7adfbedbc"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/neptune_santa/textures.1024/02.png",
+    "revision": "41c5250769ad4927fa842eb6229ab3c9"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noir_classic/textures.1024/00.png",
+    "revision": "26e570fe69e86985eb5e19654171a648"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noir_classic/textures.1024/01.png",
+    "revision": "bb72d2b90e1efac90dfa5c555de4fca5"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noir_classic/textures.1024/02.png",
+    "revision": "db1362999c2e8949851b8af461cb499c"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noir_santa/textures.1024/00.png",
+    "revision": "26e570fe69e86985eb5e19654171a648"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noir_santa/textures.1024/01.png",
+    "revision": "bb72d2b90e1efac90dfa5c555de4fca5"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noir_santa/textures.1024/02.png",
+    "revision": "5eed30ce6845c8d0901d4a99345112eb"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noir/textures.1024/00.png",
+    "revision": "26e570fe69e86985eb5e19654171a648"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noir/textures.1024/01.png",
+    "revision": "bb72d2b90e1efac90dfa5c555de4fca5"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noir/textures.1024/02.png",
+    "revision": "ff789d0058cb3178013d5a60ed83c0e0"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noireswim/textures.1024/00.png",
+    "revision": "26e570fe69e86985eb5e19654171a648"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noireswim/textures.1024/01.png",
+    "revision": "bb72d2b90e1efac90dfa5c555de4fca5"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/noireswim/textures.1024/02.png",
+    "revision": "40b387f0fbf3ea6f31bd4ee631d1543e"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_classic/textures.1024/00.png",
+    "revision": "355595542ce8b87e3c01ddf6df88d630"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_classic/textures.1024/01.png",
+    "revision": "0961e2d850247ca9b4c8ce261c1df13f"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_classic/textures.1024/02.png",
+    "revision": "3f2ede6201f36fb4054f545b1210fbe8"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_classic/textures.1024/03.png",
+    "revision": "e12e95e1975953711ded30593b7436d1"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_normal/textures.1024/00.png",
+    "revision": "355595542ce8b87e3c01ddf6df88d630"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_normal/textures.1024/01.png",
+    "revision": "0961e2d850247ca9b4c8ce261c1df13f"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_normal/textures.1024/02.png",
+    "revision": "1f0a36d7abef0cf615b34f3eadc25042"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_normal/textures.1024/03.png",
+    "revision": "9e969e5137242f83c4416bb08cde6b7b"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_swimwear/textures.1024/00.png",
+    "revision": "355595542ce8b87e3c01ddf6df88d630"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_swimwear/textures.1024/01.png",
+    "revision": "0961e2d850247ca9b4c8ce261c1df13f"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_swimwear/textures.1024/02.png",
+    "revision": "5230c719aed0724fc97e231a7ef25c58"
+  },
+  {
+    "url": "live2dModels/live2d/model/HyperdimensionNeptunia/vert_swimwear/textures.1024/03.png",
+    "revision": "8c4e10348c7b42598c16dfb0cb21f8be"
+  },
+  {
     "url": "live2dModels/live2d/model/kesshouban/textures/texture_00.png",
     "revision": "2e6411636e81d3e58e8315bfa586ba8d"
+  },
+  {
+    "url": "live2dModels/live2d/model/miku/15.jpg",
+    "revision": "e17ee7dfb7498cf9b6adb314652e91ac"
+  },
+  {
+    "url": "live2dModels/live2d/model/murakumo/textures.1024/00.png",
+    "revision": "a6e1e162ce3db2e76b572f6c62821ba6"
+  },
+  {
+    "url": "live2dModels/live2d/model/nero/17.jpg",
+    "revision": "55747baef5cbab1060f7c483ba540cc7"
   },
   {
     "url": "live2dModels/live2d/model/pio/getJSON.js",
@@ -1098,6 +1390,78 @@ self.__precacheManifest = [
     "revision": "28e5e7d70b20a30a2ce1dd48e88e960e"
   },
   {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-48/textures.512/00.png",
+    "revision": "65f35fe8642a9a7fa36df5fdaa455e65"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-48/textures.512/01.png",
+    "revision": "cd908aa9a1cd257a90c1e9d1fa537153"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-48/textures.512/02.png",
+    "revision": "0a60d532b129f3b9fd0b579771cb55b4"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-48/textures.512/03.png",
+    "revision": "cc8e797d1162bdca5a7d34b80ba773df"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-48/textures.512/04.png",
+    "revision": "95338fe1ad033d97f4328a3f49c73a76"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-48/textures.512/05.png",
+    "revision": "f940ba794b80b35cdc620d715b03d369"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-48/textures.512/06.png",
+    "revision": "65f35fe8642a9a7fa36df5fdaa455e65"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-48/textures.512/07.png",
+    "revision": "65f35fe8642a9a7fa36df5fdaa455e65"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-pajama/textures.512/00.png",
+    "revision": "65f35fe8642a9a7fa36df5fdaa455e65"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-pajama/textures.512/01.png",
+    "revision": "0a60d532b129f3b9fd0b579771cb55b4"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-pajama/textures.512/02.png",
+    "revision": "23ceac1e2295b76b9376c9360c8be10c"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-pajama/textures.512/03.png",
+    "revision": "95338fe1ad033d97f4328a3f49c73a76"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-pajama/textures.512/04.png",
+    "revision": "1091e937e2e1745cd915da007849a49f"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-pajama/textures.512/05.png",
+    "revision": "f940ba794b80b35cdc620d715b03d369"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-pajama/textures.512/06.png",
+    "revision": "65f35fe8642a9a7fa36df5fdaa455e65"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-pajama/textures.512/07.png",
+    "revision": "65f35fe8642a9a7fa36df5fdaa455e65"
+  },
+  {
+    "url": "live2dModels/live2d/model/ShizukuTalk/shizuku-pajama/textures.512/08.png",
+    "revision": "65f35fe8642a9a7fa36df5fdaa455e65"
+  },
+  {
+    "url": "live2dModels/live2d/model/tamamo/16.jpg",
+    "revision": "4d3ad59a89371670d0a5ba1c54e08a89"
+  },
+  {
     "url": "live2dModels/live2d/model/tia/textures/13.png",
     "revision": "232d84a83c6b1e5b9bd09043fa8cc022"
   },
@@ -1122,6 +1486,18 @@ self.__precacheManifest = [
     "revision": "68def1fa8a60bf5a69189d89e96d20ee"
   },
   {
+    "url": "live2dModels/live2d/model/umaru/13.jpg",
+    "revision": "6fcf123674cf28b91837605f7a835c84"
+  },
+  {
+    "url": "live2dModels/live2d/model/violet/14.jpg",
+    "revision": "65837c79f3bcfe24441c850e721c65d3"
+  },
+  {
+    "url": "live2dModels/live2d/model/violet/Violet.1024/texture_00.png",
+    "revision": "00c034d08af4966cf79d634b9c0cb060"
+  },
+  {
     "url": "live2dModels/live2d/model/xiaoban/model.2048/texture_00.png",
     "revision": "2e6411636e81d3e58e8315bfa586ba8d"
   },
@@ -1139,23 +1515,23 @@ self.__precacheManifest = [
   },
   {
     "url": "Store/Dev/Issue.html",
-    "revision": "0cf851a973f01bd0d5789a755d287c9e"
+    "revision": "83b6c5e31ef43b39fbe561d1b38c7ec5"
   },
   {
     "url": "Store/Dev/Links.html",
-    "revision": "3e3170f55e189b6dc16d2f6735e66f2c"
+    "revision": "8d8e487f29e53306023760bbfa9e6e0c"
   },
   {
     "url": "Store/Dev/Plugins.html",
-    "revision": "0865d1aebae756f7fea4a1d1c3b9385d"
+    "revision": "7ab848d0373e280e2616d82f33ddeb29"
   },
   {
     "url": "Store/index.html",
-    "revision": "a9f2cb838bcaf6443093c0b7f79a17c6"
+    "revision": "c552646dd9cf503ed38cff59f68bff10"
   },
   {
     "url": "Thought/index.html",
-    "revision": "3b8d00b07585e47ab9a3dc43681234b7"
+    "revision": "4c1c3b4ebdbfc9ab9bb9440d43b07a60"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

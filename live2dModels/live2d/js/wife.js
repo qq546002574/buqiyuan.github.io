@@ -79,7 +79,7 @@ initTips();
         referrer.href = document.referrer;
     }
 
-    if(referrer.href !== '' && referrer.hostname != 'buqiyuan.github.io'){
+    if(referrer.href !== '' && referrer.hostname.indexOf("buqiyuan") === -1){
         var referrer = document.createElement('a');
         referrer.href = document.referrer;
         text = 'Hello! 来自 <span style="color:#0099cc;">' + referrer.hostname + '</span> 的朋友';
